@@ -1,20 +1,32 @@
-<!--Here is the doctype-->
+<!--HERE IS THE DOCTYPE-->
 <!DOCTYPE html>
 <html lang="en">
-<!--Here is the head-->
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
 
-<!--Here is the body-->
+  <!--HERE IS THE HEAD-->
+  <head>
+    <title>Avonlea</title>
+  </head>
 
+<!--HERE IS THE BODY-->
 <body>
+<!--HERE IS FIRST SEMANTIC ELEMENT-->
   <header>
-    <h1>Avonlea's Art Portfolio</h1>
+    <!--HERE IS THE SECOND SEMANTIC ELEMENT-->
+    <h1>Avonlea's Portfolio</h1>
   </header>
+  <!--HERE IS THE THIRD SEMANTIC ELEMENT-->
+  <main>
+    <!--HERE IS THE LIST WITH 3 ITEMS-->
+    <ul>
+      <li><h2>Avonlea's Pencil Drawings</h2></li>
+      <li><h2>Avonlea's Ink Drawings</h2></li>
+      <li><h2>Avonlea's Digital Drawings</h2></li>
+    </ul>
+  </main>
 
+<footer> 
+  <h6>All images created by Avonlea Johnson.</h6>
+</footer>
 </body>
 
 </html>
