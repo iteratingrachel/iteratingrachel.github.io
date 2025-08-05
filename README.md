@@ -20,7 +20,7 @@
     <ul>
       <li><h2>Avonlea's Pencil Drawings</h2></li>
       <li><h2>Avonlea's Ink Drawings</h2></li>
-      <li><h2>Avonlea's Digital Drawings</h2></li>
+      <li><h2><a href="https://github.com/iteratingrachel/iteratingrachel.github.io/blob/main/AvDigital1.jpg">Avonlea's Digital Drawing 1</a></h2></li>
     </ul>
   </main>
 
