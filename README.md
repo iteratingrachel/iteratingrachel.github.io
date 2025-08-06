@@ -23,15 +23,27 @@
       <h2>ART CATEGORIES</h2>
         <ul>
           <li>Avonlea's Pencil Drawings</li>
-          <li>Avonlea's Ink Drawings</li>
+          
+          <!--INK-->
+          <li>
+            <h3>Avonlea's Ink Drawings</h>
+            <p>Ink Drawing 1<br>
+            <a href=""><img src="" alt="Ink Drawing 1" style="width:100px"></a>
+            
+            </p>
+          </li>
+          
+          <!--DIGITAL-->
           <li>
             <h3>Avonlea's Digital Drawings</h3>
             <p>Digital Drawing 1<br> 
               <a  href="https://github.com/iteratingrachel/iteratingrachel.github.io/blob/main/AvDigital1.jpg"><img src="https://raw.githubusercontent.com/iteratingrachel/iteratingrachel.github.io/main/AvDigital1.jpg" alt="Digital Drawing 1"
          style="width:100px"></a>
             </p>
-     </li>
-    </ul>
+         </li>
+      
+      
+      </ul>
   </section>
   </main>
 
