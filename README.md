@@ -22,16 +22,24 @@
     <section>
       <h2>ART CATEGORIES</h2>
         <ul>
-          <li>Avonlea's Pencil Drawings</li>
+          <!--PENCIL-->
+          <li>
+            <h3>Avonlea's Pencil Drawings</h3>
+            <p>Pencil Drawing 1<br>
+            <a href=""><img src=""alt="Pencil Drawing 1" style="width:100px"></a>
+            
+            </p>
+            </li>
+
           
           <!--INK-->
           <li>
-            <h3>Avonlea's Ink Drawings</h>
+            <h3>Avonlea's Ink Drawings</h3>
             <p>Ink Drawing 1<br>
-            <a href=""><img src="" alt="Ink Drawing 1" style="width:100px"></a>
-            
+            <a href="https://raw.githubusercontent.com/iteratingrachel/iteratingrachel.github.io/main/AvInk1.jpg"><img src="https://raw.githubusercontent.com/iteratingrachel/iteratingrachel.github.io/main/AvInk1.jpg" alt="Ink Drawing 1" style="width:100px"></a>
             </p>
           </li>
+
           
           <!--DIGITAL-->
           <li>
