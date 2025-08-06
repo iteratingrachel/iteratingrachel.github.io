@@ -1,4 +1,3 @@
-<!--HERE IS THE DOCTYPE-->
 <!DOCTYPE html>
 <html lang="en">
 <!--HERE IS THE HEAD-->
