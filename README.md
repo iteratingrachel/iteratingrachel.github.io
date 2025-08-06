@@ -16,7 +16,6 @@
     <h1>Avonlea's Portfolio</h1>
   </header>
   <!--HERE IS THE THIRD SEMANTIC ELEMENT-->
-
   <main>
     <!--HERE IS THE LIST WITH 3 ITEMS-->
     <section>
@@ -26,7 +25,7 @@
           <li>
             <h3>Avonlea's Pencil Drawings</h3>
             <p>Pencil Drawing 1<br>
-            <a href=""><img src=""alt="Pencil Drawing 1" style="width:100px"></a>
+            <a href="https://raw.githubusercontent.com/iteratingrachel/iteratingrachel.github.io/blob/main/AvPencil1.jpg"><img src="https://raw.githubusercontent.com/iteratingrachel/iteratingrachel.github.io/blob/main/AvPencil1.jpg"alt="Pencil Drawing 1" style="width:100px"></a>
             
             </p>
             </li>
